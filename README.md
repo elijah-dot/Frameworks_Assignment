@@ -5,8 +5,10 @@ It uses **pandas** for data cleaning, **matplotlib/seaborn** for visualizations,
 ---
 ## 📌 Features
 
-![Project Screenshot](./images/Screenshot%202025-09-22%20010319.png "Homepage Preview")
-![Project Screenshot](./images/Screenshot%202025-09-22%20010348.png "Homepage Preview")
+<p align="center">
+    <img src="./images/Screenshot%202025-09-22%20010319.png" alt="Homepage Preview" width="45%" />
+    <img src="./images/Screenshot%202025-09-22%20010348.png" alt="Homepage Preview" width="45%" />
+</p>
 
 
 
